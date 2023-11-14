@@ -1,3 +1,6 @@
+
+<h1>Version 1.0.1</h1>
+
 Lịch học Docker một buổi mỗi tuần, từ 5h đến 6h30 chiều vào thứ Tư. 
 Dưới đây là lịch trình chi tiết cho từng buổi học, tập trung vào các khía cạnh quan trọng của Docker như cơ bản về container, Docker Compose, 
 quản lý volume, mạng và các 1 vài vấn đề nâng cao khác.
